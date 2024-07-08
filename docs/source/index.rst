@@ -10,7 +10,7 @@ Quick Start
 To install PocketSphinx on most recent versions of Python, you should
 be able to simply use `pip`::
 
-  pip install pocketsphinx
+  pip install pocketsphinx 
 
 This is a (somewhat) "batteries-included" install, which comes with a
 default model and dictionary.  Sadly, this model is specifically for
